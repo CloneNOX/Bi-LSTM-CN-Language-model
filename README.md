@@ -1,3 +1,9 @@
+# Bi-LSTM中文语言模型
+
+这是中山大学《自然语言处理》课程的课程设计，使用Bi-LSTM模型训练中文语料库，并实现根据已输入中文词预测下一个中文词。代码编写时间是作者大三时期，代码规范、文档写作规范欠缺严重，Python库的使用相当幼稚，耦合度高。本仓库代码由于缺失数据集和前置任务的代码，并不能运行。仅再次提供一个思路，并希望提供一个在其他一维时间序列的分类/预测任务上可行的模型
+
+**以下是作者在当年写的README**
+
 #### 代码运行环境：
 
 | python版本 | PyTorch版本 | 操作系统     |
@@ -18,17 +24,14 @@ dotest.ipynb：进行测试的jupyter notebook文件，在可以使用两个模�
 
 
 
-checkpoint文件夹中包含了BiLSTM-CRF和LSTM模型，在dotest.ipynb中会用到。
-
 #### 开始训练：
 
 ```powershell
 python train.py 
 ```
 
-或者
+加载检查点继续训练，可用于fine-tune
 
 ```pow
 python train.py resume
 ```
-
