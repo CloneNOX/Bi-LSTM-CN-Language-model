@@ -1,0 +1,900 @@
+epoch   1
+loss: 6.608444
+test accuracy: 20.78%, (512570/2466133)
+epoch   2
+loss: 5.523848
+test accuracy: 24.24%, (597769/2466093)
+epoch   3
+loss: 4.933521
+test accuracy: 27.41%, (675904/2466259)
+epoch   4
+loss: 4.507231
+test accuracy: 31.13%, (767633/2466231)
+epoch   5
+loss: 4.174757
+test accuracy: 34.58%, (852728/2466126)
+epoch   6
+loss: 3.902161
+test accuracy: 37.66%, (928823/2466195)
+epoch   7
+loss: 3.673968
+test accuracy: 40.38%, (995773/2466252)
+epoch   8
+loss: 3.479361
+test accuracy: 42.91%, (1058196/2466192)
+epoch   9
+loss: 3.311511
+test accuracy: 45.14%, (1113233/2466014)
+epoch  10
+loss: 3.165172
+test accuracy: 47.13%, (1162205/2466105)
+epoch  11
+loss: 3.034901
+test accuracy: 49.05%, (1209716/2466246)
+epoch  12
+loss: 2.919584
+test accuracy: 50.60%, (1247908/2466202)
+epoch  13
+loss: 2.817176
+test accuracy: 52.12%, (1285454/2466210)
+epoch  14
+loss: 2.724520
+test accuracy: 53.47%, (1318748/2466186)
+epoch  15
+loss: 2.640874
+test accuracy: 54.69%, (1348751/2466129)
+epoch  16
+loss: 2.566462
+test accuracy: 55.80%, (1376166/2466204)
+epoch  17
+loss: 2.498309
+test accuracy: 56.80%, (1400711/2466117)
+epoch  18
+loss: 2.434675
+test accuracy: 57.78%, (1424948/2466274)
+epoch  19
+loss: 2.378337
+test accuracy: 58.59%, (1444886/2466164)
+epoch  20
+loss: 2.326728
+test accuracy: 59.38%, (1464390/2466276)
+epoch  21
+loss: 2.279526
+test accuracy: 60.03%, (1480490/2466217)
+epoch  22
+loss: 2.236694
+test accuracy: 60.74%, (1497847/2466174)
+epoch  23
+loss: 2.195882
+test accuracy: 61.30%, (1511682/2466211)
+epoch  24
+loss: 2.159343
+test accuracy: 61.78%, (1523718/2466206)
+epoch  25
+loss: 2.125270
+test accuracy: 62.40%, (1538884/2466126)
+epoch  26
+loss: 2.092909
+test accuracy: 62.82%, (1549288/2466155)
+epoch  27
+loss: 2.063414
+test accuracy: 63.19%, (1558375/2466292)
+epoch  28
+loss: 2.037605
+test accuracy: 63.54%, (1566722/2465852)
+epoch  29
+loss: 2.012111
+test accuracy: 63.93%, (1576682/2466183)
+epoch  30
+loss: 1.988704
+test accuracy: 64.30%, (1585661/2466206)
+epoch  31
+loss: 1.966244
+test accuracy: 64.66%, (1594649/2466273)
+epoch  32
+loss: 1.946489
+test accuracy: 64.95%, (1601775/2466200)
+epoch  33
+loss: 1.926790
+test accuracy: 65.24%, (1608822/2466018)
+epoch  34
+loss: 1.908796
+test accuracy: 65.51%, (1615640/2466169)
+epoch  35
+loss: 1.891515
+test accuracy: 65.66%, (1619421/2466212)
+epoch  36
+loss: 1.877569
+test accuracy: 65.84%, (1623665/2466222)
+epoch  37
+loss: 1.862664
+test accuracy: 66.09%, (1629783/2466164)
+epoch  38
+loss: 1.849233
+test accuracy: 66.23%, (1633341/2466234)
+epoch  39
+loss: 1.836034
+test accuracy: 66.45%, (1638814/2466208)
+epoch  40
+loss: 1.825702
+test accuracy: 66.63%, (1643168/2466141)
+epoch  41
+loss: 1.812037
+test accuracy: 66.79%, (1647093/2466195)
+epoch  42
+loss: 1.802192
+test accuracy: 66.84%, (1648472/2466233)
+epoch  43
+loss: 1.793776
+test accuracy: 66.93%, (1650483/2466071)
+epoch  44
+loss: 1.784073
+test accuracy: 67.09%, (1654654/2466205)
+epoch  45
+loss: 1.773985
+test accuracy: 67.23%, (1657910/2466106)
+epoch  46
+loss: 1.765663
+test accuracy: 67.36%, (1661186/2466044)
+epoch  47
+loss: 1.759005
+test accuracy: 67.48%, (1664207/2466095)
+epoch  48
+loss: 1.749501
+test accuracy: 67.49%, (1664442/2466045)
+epoch  49
+loss: 1.744707
+test accuracy: 67.52%, (1665240/2466157)
+epoch  50
+loss: 1.738356
+test accuracy: 67.63%, (1667844/2466102)
+epoch  51
+loss: 1.759952
+test accuracy: 67.52%, (1665310/2466227)
+epoch  52
+loss: 1.730679
+test accuracy: 67.80%, (1672029/2466132)
+epoch  53
+loss: 1.722534
+test accuracy: 67.78%, (1671549/2466200)
+epoch  54
+loss: 1.720019
+test accuracy: 67.86%, (1673600/2466188)
+epoch  55
+loss: 1.713586
+test accuracy: 67.96%, (1675901/2466164)
+epoch  56
+loss: 1.706786
+test accuracy: 68.01%, (1677285/2466178)
+epoch  57
+loss: 1.702820
+test accuracy: 68.11%, (1679736/2466234)
+epoch  58
+loss: 1.699401
+test accuracy: 68.03%, (1677632/2466189)
+epoch  59
+loss: 1.694745
+test accuracy: 68.02%, (1677376/2466124)
+epoch  60
+loss: 1.690602
+test accuracy: 68.12%, (1679928/2466218)
+epoch  61
+loss: 1.686946
+test accuracy: 68.12%, (1680074/2466182)
+epoch  62
+loss: 1.683583
+test accuracy: 68.16%, (1680851/2466117)
+epoch  63
+loss: 1.681766
+test accuracy: 68.24%, (1683048/2466189)
+epoch  64
+loss: 1.677640
+test accuracy: 68.20%, (1682080/2466281)
+epoch  65
+loss: 1.676187
+test accuracy: 68.25%, (1683106/2466148)
+epoch  66
+loss: 1.673414
+test accuracy: 68.29%, (1684011/2466033)
+epoch  67
+loss: 1.670377
+test accuracy: 68.32%, (1684865/2466278)
+epoch  68
+loss: 1.667731
+test accuracy: 68.28%, (1683968/2466146)
+epoch  69
+loss: 1.669345
+test accuracy: 68.26%, (1683415/2466261)
+epoch  70
+loss: 1.664248
+test accuracy: 68.39%, (1686524/2466038)
+epoch  71
+loss: 1.663662
+test accuracy: 68.29%, (1684286/2466236)
+epoch  72
+loss: 1.663236
+test accuracy: 68.35%, (1685632/2466123)
+epoch  73
+loss: 1.660416
+test accuracy: 68.27%, (1683553/2466186)
+epoch  74
+loss: 1.658653
+test accuracy: 68.27%, (1683725/2466162)
+epoch  75
+loss: 1.662692
+test accuracy: 68.27%, (1683805/2466238)
+epoch  76
+loss: 1.658257
+test accuracy: 68.24%, (1683054/2466268)
+epoch  77
+loss: 1.657463
+test accuracy: 68.28%, (1683821/2466181)
+epoch  78
+loss: 1.653292
+test accuracy: 68.26%, (1683516/2466149)
+epoch  79
+loss: 1.655206
+test accuracy: 68.09%, (1679142/2466106)
+epoch  80
+loss: 1.656219
+test accuracy: 68.10%, (1679267/2465953)
+epoch  81
+loss: 1.656425
+test accuracy: 68.23%, (1682685/2466262)
+epoch  82
+loss: 1.653647
+test accuracy: 68.18%, (1681617/2466270)
+epoch  83
+loss: 1.658416
+test accuracy: 68.06%, (1678434/2466171)
+epoch  84
+loss: 1.655071
+test accuracy: 68.05%, (1678420/2466307)
+epoch  85
+loss: 1.654659
+test accuracy: 68.18%, (1681507/2466176)
+epoch  86
+loss: 1.654807
+test accuracy: 67.95%, (1675759/2466163)
+epoch  87
+loss: 1.659136
+test accuracy: 68.07%, (1678637/2466206)
+epoch  88
+loss: 1.660613
+test accuracy: 67.64%, (1668145/2466176)
+epoch  89
+loss: 1.663154
+test accuracy: 67.94%, (1675729/2466327)
+epoch  90
+loss: 1.656782
+test accuracy: 67.92%, (1675029/2466285)
+epoch  91
+loss: 1.660198
+test accuracy: 67.83%, (1672764/2466139)
+epoch  92
+loss: 1.659639
+test accuracy: 67.94%, (1675564/2466262)
+epoch  93
+loss: 1.660015
+test accuracy: 67.60%, (1667055/2466099)
+epoch  94
+loss: 1.662417
+test accuracy: 67.82%, (1672723/2466244)
+epoch  95
+loss: 1.664227
+test accuracy: 67.74%, (1670532/2466095)
+epoch  96
+loss: 1.663452
+test accuracy: 67.64%, (1668271/2466236)
+epoch  97
+loss: 1.666908
+test accuracy: 67.72%, (1670063/2466243)
+epoch  98
+loss: 1.663754
+test accuracy: 67.67%, (1668705/2466102)
+epoch  99
+loss: 1.666456
+test accuracy: 67.55%, (1665935/2466279)
+epoch 100
+loss: 1.668270
+test accuracy: 67.48%, (1664204/2466221)
+epoch  71
+loss: 1.489327
+test accuracy: 72.41%, (1785672/2466064)
+epoch  72
+loss: 1.387030
+test accuracy: 73.99%, (1824588/2466159)
+epoch  73
+loss: 1.334139
+test accuracy: 74.91%, (1847508/2466171)
+epoch  74
+loss: 1.299152
+test accuracy: 75.57%, (1863533/2466120)
+epoch  75
+loss: 1.272512
+test accuracy: 76.06%, (1875780/2466205)
+epoch  76
+loss: 1.251957
+test accuracy: 76.44%, (1885095/2466098)
+epoch  77
+loss: 1.234846
+test accuracy: 76.78%, (1893259/2465916)
+epoch  78
+loss: 1.220622
+test accuracy: 77.07%, (1900370/2465831)
+epoch  79
+loss: 1.207896
+test accuracy: 77.31%, (1906393/2466024)
+epoch  80
+loss: 1.196604
+test accuracy: 77.52%, (1911720/2466168)
+epoch  81
+loss: 1.185949
+test accuracy: 77.71%, (1916263/2465924)
+epoch  82
+loss: 1.177383
+test accuracy: 77.88%, (1920551/2466165)
+epoch  83
+loss: 1.168841
+test accuracy: 78.06%, (1925095/2466247)
+epoch  84
+loss: 1.160827
+test accuracy: 78.21%, (1928792/2466102)
+epoch  85
+loss: 1.154027
+test accuracy: 78.34%, (1932020/2466103)
+epoch  86
+loss: 1.147001
+test accuracy: 78.48%, (1935385/2466100)
+epoch  87
+loss: 1.140643
+test accuracy: 78.63%, (1939023/2466164)
+epoch  88
+loss: 1.134054
+test accuracy: 78.73%, (1941604/2466133)
+epoch  89
+loss: 1.128333
+test accuracy: 78.85%, (1944548/2466241)
+epoch  90
+loss: 1.123289
+test accuracy: 78.96%, (1947247/2465989)
+epoch  91
+loss: 1.117609
+test accuracy: 79.05%, (1949446/2466244)
+epoch  92
+loss: 1.112968
+test accuracy: 79.17%, (1952482/2466227)
+epoch  93
+loss: 1.108001
+test accuracy: 79.26%, (1954702/2466209)
+epoch  94
+loss: 1.103491
+test accuracy: 79.35%, (1956868/2466121)
+epoch  95
+loss: 1.098637
+test accuracy: 79.44%, (1959300/2466270)
+epoch  96
+loss: 1.093935
+test accuracy: 79.51%, (1960809/2466119)
+epoch  97
+loss: 1.090429
+test accuracy: 79.61%, (1963276/2466186)
+epoch  98
+loss: 1.086320
+test accuracy: 79.69%, (1965246/2465997)
+epoch  99
+loss: 1.082538
+test accuracy: 79.77%, (1967208/2466151)
+epoch 100
+loss: 1.078061
+test accuracy: 79.84%, (1968993/2466170)
+epoch 101
+loss: 1.074198
+test accuracy: 79.91%, (1970863/2466233)
+epoch 102
+loss: 1.070895
+test accuracy: 79.98%, (1972490/2466217)
+epoch 103
+loss: 1.067157
+test accuracy: 80.07%, (1974638/2466004)
+epoch 104
+loss: 1.063389
+test accuracy: 80.11%, (1975532/2465918)
+epoch 105
+loss: 1.060476
+test accuracy: 80.19%, (1977629/2466171)
+epoch 106
+loss: 1.056590
+test accuracy: 80.23%, (1978597/2466235)
+epoch 107
+loss: 1.053891
+test accuracy: 80.31%, (1980712/2466234)
+epoch 108
+loss: 1.050418
+test accuracy: 80.37%, (1982171/2466267)
+epoch 109
+loss: 1.047501
+test accuracy: 80.44%, (1983692/2466016)
+epoch 110
+loss: 1.044215
+test accuracy: 80.48%, (1984746/2466155)
+epoch 111
+loss: 1.041688
+test accuracy: 80.56%, (1986579/2466073)
+epoch 112
+loss: 1.038722
+test accuracy: 80.60%, (1987758/2466217)
+epoch 113
+loss: 1.035615
+test accuracy: 80.65%, (1989110/2466254)
+epoch 114
+loss: 1.032909
+test accuracy: 80.72%, (1990824/2466237)
+epoch 115
+loss: 1.030525
+test accuracy: 80.76%, (1991721/2466093)
+epoch 116
+loss: 1.027418
+test accuracy: 80.83%, (1993311/2466044)
+epoch 117
+loss: 1.024650
+test accuracy: 80.87%, (1994422/2466243)
+epoch 118
+loss: 1.022428
+test accuracy: 80.91%, (1995307/2466108)
+epoch 119
+loss: 1.019343
+test accuracy: 80.97%, (1996784/2466119)
+epoch 120
+loss: 1.017050
+test accuracy: 81.02%, (1998142/2466206)
+epoch 121
+loss: 1.019175
+test accuracy: 81.07%, (1999151/2466045)
+epoch 122
+loss: 1.014746
+test accuracy: 81.10%, (2000021/2466158)
+epoch 123
+loss: 1.012454
+test accuracy: 81.14%, (2000975/2466137)
+epoch 124
+loss: 1.009950
+test accuracy: 81.18%, (2001898/2466147)
+epoch 125
+loss: 1.007023
+test accuracy: 81.23%, (2003352/2466222)
+epoch 126
+loss: 1.004409
+test accuracy: 81.28%, (2004537/2466176)
+epoch 127
+loss: 1.001795
+test accuracy: 81.33%, (2005569/2466087)
+epoch 128
+loss: 0.999703
+test accuracy: 81.36%, (2006352/2466132)
+epoch 129
+loss: 0.997912
+test accuracy: 81.41%, (2007648/2466154)
+epoch 130
+loss: 0.994912
+test accuracy: 81.45%, (2008691/2466194)
+epoch 131
+loss: 0.992836
+test accuracy: 81.48%, (2009433/2466187)
+epoch 132
+loss: 0.990772
+test accuracy: 81.54%, (2010953/2466338)
+epoch 133
+loss: 0.988544
+test accuracy: 81.57%, (2011676/2466167)
+epoch 134
+loss: 0.986714
+test accuracy: 81.61%, (2012628/2466136)
+epoch 135
+loss: 0.984491
+test accuracy: 81.66%, (2013703/2466086)
+epoch 136
+loss: 0.982450
+test accuracy: 81.69%, (2014565/2466054)
+epoch 137
+loss: 0.980561
+test accuracy: 81.73%, (2015597/2466204)
+epoch 138
+loss: 0.978276
+test accuracy: 81.76%, (2016318/2466134)
+epoch 139
+loss: 0.976102
+test accuracy: 81.79%, (2017082/2466063)
+epoch 140
+loss: 0.974274
+test accuracy: 81.86%, (2018658/2466072)
+epoch 141
+loss: 0.972910
+test accuracy: 81.87%, (2018834/2465996)
+epoch 142
+loss: 0.971213
+test accuracy: 81.89%, (2019428/2466092)
+epoch 143
+loss: 0.968603
+test accuracy: 81.93%, (2020564/2466129)
+epoch 144
+loss: 0.967360
+test accuracy: 81.98%, (2021732/2466237)
+epoch 145
+loss: 0.965308
+test accuracy: 81.99%, (2022058/2466148)
+epoch 146
+loss: 0.963797
+test accuracy: 82.04%, (2023398/2466228)
+epoch 147
+loss: 0.962040
+test accuracy: 82.07%, (2024027/2466183)
+epoch 148
+loss: 0.959911
+test accuracy: 82.13%, (2025368/2466133)
+epoch 149
+loss: 0.958394
+test accuracy: 82.13%, (2025429/2466177)
+epoch 150
+loss: 0.957074
+test accuracy: 82.17%, (2026537/2466243)
+epoch 151
+loss: 0.954758
+test accuracy: 82.18%, (2026753/2466206)
+epoch 152
+loss: 0.953611
+test accuracy: 82.23%, (2028034/2466192)
+epoch 153
+loss: 0.952067
+test accuracy: 82.26%, (2028704/2466194)
+epoch 154
+loss: 0.949748
+test accuracy: 82.31%, (2029960/2466311)
+epoch 155
+loss: 0.948335
+test accuracy: 82.31%, (2029992/2466135)
+epoch 156
+loss: 0.947017
+test accuracy: 82.35%, (2030842/2466075)
+epoch 157
+loss: 0.945870
+test accuracy: 82.39%, (2031722/2466113)
+epoch 158
+loss: 0.943776
+test accuracy: 82.42%, (2032546/2466099)
+epoch 159
+loss: 0.942874
+test accuracy: 82.41%, (2032482/2466260)
+epoch 160
+loss: 0.941591
+test accuracy: 82.46%, (2033801/2466263)
+epoch 161
+loss: 0.939243
+test accuracy: 82.50%, (2034664/2466168)
+epoch 162
+loss: 0.937509
+test accuracy: 82.51%, (2034926/2466195)
+epoch 163
+loss: 0.936519
+test accuracy: 82.56%, (2036123/2466092)
+epoch 164
+loss: 0.934852
+test accuracy: 82.59%, (2036721/2466064)
+epoch 165
+loss: 0.933881
+test accuracy: 82.61%, (2037200/2466149)
+epoch 166
+loss: 0.932314
+test accuracy: 82.63%, (2037843/2466155)
+epoch 167
+loss: 0.930871
+test accuracy: 82.66%, (2038538/2466090)
+epoch 168
+loss: 0.929365
+test accuracy: 82.70%, (2039564/2466215)
+epoch 169
+loss: 0.928066
+test accuracy: 82.70%, (2039607/2466143)
+epoch 170
+loss: 0.926609
+test accuracy: 82.75%, (2040437/2465929)
+epoch 171
+loss: 0.930282
+test accuracy: 82.78%, (2041460/2466070)
+epoch 172
+loss: 0.926098
+test accuracy: 82.79%, (2041820/2466217)
+epoch 173
+loss: 0.925177
+test accuracy: 82.79%, (2041766/2466190)
+epoch 174
+loss: 0.923978
+test accuracy: 82.83%, (2042816/2466185)
+epoch 175
+loss: 0.921282
+test accuracy: 82.86%, (2043499/2466063)
+epoch 176
+loss: 0.919896
+test accuracy: 82.84%, (2043051/2466235)
+epoch 177
+loss: 0.918566
+test accuracy: 82.88%, (2043938/2466180)
+epoch 178
+loss: 0.917551
+test accuracy: 82.90%, (2044366/2466194)
+epoch 179
+loss: 0.916566
+test accuracy: 82.95%, (2045881/2466262)
+epoch 180
+loss: 0.914286
+test accuracy: 82.98%, (2046423/2466174)
+epoch 181
+loss: 0.913185
+test accuracy: 82.98%, (2046163/2465962)
+epoch 182
+loss: 0.911905
+test accuracy: 83.00%, (2046999/2466172)
+epoch 183
+loss: 0.910303
+test accuracy: 83.05%, (2048188/2466209)
+epoch 184
+loss: 0.908788
+test accuracy: 83.06%, (2048232/2466106)
+epoch 185
+loss: 0.908293
+test accuracy: 83.06%, (2048490/2466140)
+epoch 186
+loss: 0.906689
+test accuracy: 83.10%, (2049474/2466139)
+epoch 187
+loss: 0.905561
+test accuracy: 83.13%, (2050208/2466259)
+epoch 188
+loss: 0.904228
+test accuracy: 83.16%, (2050815/2466177)
+epoch 189
+loss: 0.903240
+test accuracy: 83.17%, (2051075/2466147)
+epoch 190
+loss: 0.902134
+test accuracy: 83.19%, (2051770/2466261)
+epoch 191
+loss: 0.901011
+test accuracy: 83.19%, (2051842/2466311)
+epoch 192
+loss: 0.900050
+test accuracy: 83.23%, (2052653/2466121)
+epoch 193
+loss: 0.898693
+test accuracy: 83.24%, (2052818/2466193)
+epoch 194
+loss: 0.897897
+test accuracy: 83.26%, (2053242/2466201)
+epoch 195
+loss: 0.897075
+test accuracy: 83.29%, (2054057/2466188)
+epoch 196
+loss: 0.895280
+test accuracy: 83.32%, (2054671/2466141)
+epoch 197
+loss: 0.895058
+test accuracy: 83.28%, (2053767/2466213)
+epoch 198
+loss: 0.893830
+test accuracy: 83.34%, (2055291/2466216)
+epoch 199
+loss: 0.892382
+test accuracy: 83.37%, (2056243/2466281)
+epoch 200
+loss: 0.891078
+test accuracy: 83.38%, (2056228/2466222)
+epoch 201
+loss: 0.890538
+test accuracy: 83.39%, (2056711/2466239)
+epoch 202
+loss: 0.889070
+test accuracy: 83.43%, (2057389/2466134)
+epoch 203
+loss: 0.888798
+test accuracy: 83.39%, (2056634/2466199)
+epoch 204
+loss: 0.886977
+test accuracy: 83.43%, (2057443/2465989)
+epoch 205
+loss: 0.885884
+test accuracy: 83.49%, (2058721/2465894)
+epoch 206
+loss: 0.885126
+test accuracy: 83.52%, (2059664/2466181)
+epoch 207
+loss: 0.884168
+test accuracy: 83.52%, (2059738/2466065)
+epoch 208
+loss: 0.883779
+test accuracy: 83.52%, (2059735/2466189)
+epoch 209
+loss: 0.882361
+test accuracy: 83.53%, (2060115/2466185)
+epoch 210
+loss: 0.880931
+test accuracy: 83.61%, (2061921/2466235)
+epoch 211
+loss: 0.879207
+test accuracy: 83.58%, (2061212/2466080)
+epoch 212
+loss: 0.879683
+test accuracy: 83.61%, (2062016/2466103)
+epoch 213
+loss: 0.878216
+test accuracy: 83.60%, (2061732/2466099)
+epoch 214
+loss: 0.879206
+test accuracy: 83.66%, (2063369/2466309)
+epoch 215
+loss: 0.875277
+test accuracy: 83.67%, (2063297/2466020)
+epoch 216
+loss: 0.874917
+test accuracy: 83.62%, (2062282/2466212)
+epoch 217
+loss: 0.874800
+test accuracy: 83.65%, (2063023/2466276)
+epoch 218
+loss: 0.873830
+test accuracy: 83.68%, (2063757/2466225)
+epoch 219
+loss: 0.873380
+test accuracy: 83.68%, (2063807/2466217)
+epoch 220
+loss: 0.872392
+test accuracy: 83.71%, (2064480/2466199)
+epoch 221
+loss: 0.876976
+test accuracy: 83.72%, (2064772/2466279)
+epoch 222
+loss: 0.874125
+test accuracy: 83.78%, (2066103/2466080)
+epoch 223
+loss: 0.872406
+test accuracy: 83.75%, (2065522/2466168)
+epoch 224
+loss: 0.871235
+test accuracy: 83.74%, (2065339/2466255)
+epoch 225
+loss: 0.871531
+test accuracy: 83.77%, (2065884/2466202)
+epoch 226
+loss: 0.871523
+test accuracy: 83.83%, (2067355/2466094)
+epoch 227
+loss: 0.867186
+test accuracy: 83.81%, (2067102/2466360)
+epoch 228
+loss: 0.868193
+test accuracy: 83.82%, (2067281/2466244)
+epoch 229
+loss: 0.866622
+test accuracy: 83.85%, (2067941/2466181)
+epoch 230
+loss: 0.865400
+test accuracy: 83.85%, (2067890/2466230)
+epoch 231
+loss: 0.865883
+test accuracy: 83.85%, (2067874/2466182)
+epoch 232
+loss: 0.863753
+test accuracy: 83.86%, (2068112/2466224)
+epoch 233
+loss: 0.862902
+test accuracy: 83.91%, (2069430/2466122)
+epoch 234
+loss: 0.861658
+test accuracy: 83.90%, (2068937/2466092)
+epoch 235
+loss: 0.861313
+test accuracy: 83.93%, (2069873/2466146)
+epoch 236
+loss: 0.859442
+test accuracy: 83.94%, (2070258/2466284)
+epoch 237
+loss: 0.859091
+test accuracy: 83.97%, (2070986/2466282)
+epoch 238
+loss: 0.859179
+test accuracy: 83.98%, (2071236/2466259)
+epoch 239
+loss: 0.858342
+test accuracy: 83.96%, (2070505/2466085)
+epoch 240
+loss: 0.857069
+test accuracy: 84.07%, (2073198/2466155)
+epoch 241
+loss: 0.855998
+test accuracy: 84.01%, (2071829/2466134)
+epoch 242
+loss: 0.853980
+test accuracy: 84.03%, (2072189/2466124)
+epoch 243
+loss: 0.853747
+test accuracy: 84.08%, (2073435/2466113)
+epoch 244
+loss: 0.853949
+test accuracy: 84.00%, (2071571/2466159)
+epoch 245
+loss: 0.852845
+test accuracy: 84.10%, (2074005/2466224)
+epoch 246
+loss: 0.852212
+test accuracy: 84.11%, (2074313/2466102)
+epoch 247
+loss: 0.851566
+test accuracy: 84.08%, (2073544/2466069)
+epoch 248
+loss: 0.851594
+test accuracy: 84.10%, (2074054/2466238)
+epoch 249
+loss: 0.849101
+test accuracy: 84.14%, (2075035/2466217)
+epoch 250
+loss: 0.849009
+test accuracy: 84.14%, (2075159/2466287)
+epoch 251
+loss: 0.849203
+test accuracy: 84.08%, (2073546/2466159)
+epoch 252
+loss: 0.848679
+test accuracy: 84.14%, (2074948/2466111)
+epoch 253
+loss: 0.851597
+test accuracy: 84.13%, (2074785/2466027)
+epoch 254
+loss: 0.846866
+test accuracy: 84.13%, (2074639/2466063)
+epoch 255
+loss: 0.845860
+test accuracy: 84.33%, (2079765/2466216)
+epoch 256
+loss: 0.845637
+test accuracy: 84.16%, (2075392/2466104)
+epoch 257
+loss: 0.843282
+test accuracy: 84.29%, (2078869/2466226)
+epoch 258
+loss: 0.843781
+test accuracy: 84.27%, (2078265/2466298)
+epoch 259
+loss: 0.846072
+test accuracy: 84.36%, (2080500/2466231)
+epoch 260
+loss: 0.844091
+test accuracy: 84.26%, (2078037/2466135)
+epoch 261
+loss: 0.843699
+test accuracy: 84.15%, (2075246/2466082)
+epoch 262
+loss: 0.843285
+test accuracy: 84.32%, (2079391/2466102)
+epoch 263
+loss: 0.844824
+test accuracy: 84.14%, (2075189/2466237)
+epoch 264
+loss: 0.847589
+test accuracy: 84.16%, (2075620/2466147)
+epoch 265
+loss: 0.849745
+test accuracy: 84.13%, (2074719/2466141)
+epoch 266
+loss: 0.850861
+test accuracy: 84.02%, (2072088/2466199)
+epoch 267
+loss: 0.852914
+test accuracy: 83.81%, (2066818/2466126)
+epoch 268
+loss: 0.864136
+test accuracy: 84.00%, (2071746/2466221)
+epoch 269
+loss: 0.851246
+test accuracy: 84.14%, (2074996/2466258)
+epoch 270
+loss: 0.857320
+test accuracy: 83.84%, (2067648/2466111)
